@@ -2,7 +2,7 @@ __author__ = 'li'
 import requests, random, threading
 
 
-url = "http://118.123.173.106/manager/picture/pictureUpload/upload"
+url = "http://.../manager/picture/pictureUpload/upload"
 cookies = dict(JSESSIONID='003C73333A202C8DE344358D38CD5F91', easyuiThemeName='default')
 
 
